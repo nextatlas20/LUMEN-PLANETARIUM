@@ -1,6 +1,102 @@
 {
   "gallery": "Night Sky",
-  "summary": {"scheduled": 0, "waves": 0, "blocked": 0},
-  "waves": [],
-  "blocked": []
+  "summary": {
+    "scheduled": 8,
+    "waves": 4,
+    "blocked": 6
+  },
+  "waves": [
+    {
+      "wave": 1,
+      "tasks": [
+        {
+          "task_id": "EX-107",
+          "title": "Commission audio matrix",
+          "zone": "Audio"
+        },
+        {
+          "task_id": "EX-101",
+          "title": "Secure projection rail",
+          "zone": "Rigging"
+        }
+      ]
+    },
+    {
+      "wave": 2,
+      "tasks": [
+        {
+          "task_id": "EX-110",
+          "title": "Certify hearing loop",
+          "zone": "Accessibility"
+        },
+        {
+          "task_id": "EX-108",
+          "title": "Hang constellation scrim",
+          "zone": "Fabric"
+        },
+        {
+          "task_id": "EX-104",
+          "title": "Route fiber uplink",
+          "zone": "Network"
+        }
+      ]
+    },
+    {
+      "wave": 3,
+      "tasks": [
+        {
+          "task_id": "EX-109",
+          "title": "Configure control tablet",
+          "zone": "Controls"
+        },
+        {
+          "task_id": "EX-102",
+          "title": "Calibrate star projector",
+          "zone": "Projection"
+        }
+      ]
+    },
+    {
+      "wave": 4,
+      "tasks": [
+        {
+          "task_id": "EX-105",
+          "title": "Program aurora sequence",
+          "zone": "Content"
+        }
+      ]
+    }
+  ],
+  "blocked": [
+    {
+      "task_id": "EX-112",
+      "title": "Print visitor labels",
+      "reason": "unavailable prerequisite: EX-106"
+    },
+    {
+      "task_id": "EX-113",
+      "title": "Synchronize show clock",
+      "reason": "unresolved dependency cycle"
+    },
+    {
+      "task_id": "EX-114",
+      "title": "Test overnight shutdown",
+      "reason": "unresolved dependency cycle"
+    },
+    {
+      "task_id": "EX-115",
+      "title": "Commission air monitor",
+      "reason": "unavailable prerequisite: EX-999"
+    },
+    {
+      "task_id": "EX-116",
+      "title": "Mount label rails",
+      "reason": "unavailable prerequisite: EX-112"
+    },
+    {
+      "task_id": "EX-117",
+      "title": "Focus aisle beacons",
+      "reason": "unresolved dependency cycle"
+    }
+  ]
 }
