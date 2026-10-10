@@ -1,0 +1,25 @@
+{"task_id":"EX-101","title":"Mount projection rail","zone":"Rigging","status":"pending","revision":1}
+{"task_id":"EX-103","title":"Install acoustic panels","zone":"Dome","status":"done","revision":3}
+{"task_id":"EX-107","title":"Commission audio matrix","zone":"Audio","status":"pending","revision":1}
+{"task_id":"EX-104","title":"Route fiber uplink","zone":"Network","status":"pending","revision":2}
+{"task_id":"EX-106","title":"Align emergency lighting","zone":"Lighting","status":"pending","revision":1}
+{"task_id":"EX-102","title":"Calibrate star projector","zone":"Projection","status":"pending","revision":2}
+not json at all
+{"task_id":"EX-108","title":"Hang constellation scrim","zone":"Fabric","status":"pending","revision":1}
+{"task_id":"EX-109","title":"Configure control tablet","zone":"Controls","status":"pending","revision":4}
+{"task_id":"EX-110","title":"Certify hearing loop","zone":"Accessibility","status":"pending","revision":1}
+{"task_id":"EX-105","title":"Program aurora sequence","zone":"Content","status":"pending","revision":2}
+{"task_id":"EX-112","title":"Print visitor labels","zone":"Graphics","status":"pending","revision":1}
+{"task_id":"EX-113","title":"Synchronize show clock","zone":"Controls","status":"pending","revision":1}
+{"task_id":"EX-114","title":"Test overnight shutdown","zone":"Controls","status":"pending","revision":1}
+{"task_id":"EX-115","title":"Commission air monitor","zone":"Safety","status":"pending","revision":1}
+{"task_id":"EX-116","title":"Mount label rails","zone":"Graphics","status":"pending","revision":1}
+{"task_id":"EX-117","title":"Focus aisle beacons","zone":"Lighting","status":"pending","revision":1}
+{"task_id":"EX-118","title":"Approve ceiling inspection","zone":"Dome","status":"done","revision":1}
+{"task_id":"EX-101","title":"  Secure projection rail  ","zone":" Rigging ","status":"pending","revision":2}
+{"task_id":"EX-106","title":"Align emergency lighting","zone":"Lighting","status":"cancelled","revision":2}
+{"task_id":"EX-109","title":"Old tablet wording","zone":"Controls","status":"pending","revision":3}
+{"task_id":"EX-117","title":"Focus aisle beacons","zone":" Lighting ","status":"pending","revision":1}
+{"task_id":"EX-999","title":"Bad revision","zone":"Test","status":"pending","revision":true}
+["EX-200","array"]
+{"task_id":"BAD-1","title":"Ignored","zone":"Test","status":"pending","revision":1}
